@@ -1,3 +1,4 @@
+@registration
 Feature: Registration
 
 Background: User is on home page of the Demo Web Shop and Registration link is avaialble. 
