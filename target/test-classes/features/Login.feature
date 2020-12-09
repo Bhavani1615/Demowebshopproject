@@ -1,3 +1,4 @@
+@completetest
 Feature: Login
 
 Background: User is on home page of the Demo Web Shop and Login link is avaialble. 
