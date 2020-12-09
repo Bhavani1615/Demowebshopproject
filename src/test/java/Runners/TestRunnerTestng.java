@@ -6,7 +6,7 @@ import cucumber.api.testng.AbstractTestNGCucumberTests;
 @CucumberOptions(
 features = "E:\\javaselenium\\DemoWebShopMaven\\src\\test\\java\\features" // path of feature file
 ,glue={"StepDefinitions"}  //path of step definition class
-,tags={"@Update"} 
+,tags={"@completetest,@registrationprocess"} 
 
 ,monochrome=true// console output is much more readable
 ,plugin = {"json:target/cucumber.json"}
