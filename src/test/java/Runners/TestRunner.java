@@ -16,6 +16,6 @@
 //
 //
 //)
-//public class TestRunner extends AbstractTestNGCucumberTests {
+//public class TestRunner  {
 //
 //}
